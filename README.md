@@ -1,0 +1,1 @@
+## Twitter favirote collector written by golang
