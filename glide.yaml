@@ -1,4 +1,4 @@
-package: github.com/kevingo/go-twitter
+package: github.com/kevingo/go-twitter-favorite-collector
 import:
 - package: github.com/dghubble/go-twitter
   subpackages:

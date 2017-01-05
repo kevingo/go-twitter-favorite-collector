@@ -1,0 +1,259 @@
+- 798209151897923584,Practical advice for Go Library Authors: https://t.co/uH3hIOgA95 (A developer shares what he wished he knew before building Go libraries.)
+- 795659928459350016,A Tour of Machine Learning Algorithms #MachineLearning  https://t.co/PYPgOmGzSl
+- 787518432862466049,rebasebot: A GitHub integration service that rebases your PR branches when you ask #golang https://t.co/sYLnReupL6
+- 786931074760835072,NPM vs Yarn Cheat Sheet - https://t.co/aeprocHVV0
+- 786182785815805952,Amazon Web Services — a practical guide https://t.co/MsPOnPcE9a via HN #devops #sysadmin #linux #unix #freebsd
+- 785659727329972224,某公司经常加班，然后有个人猝死了，后来来了个妹子，坐那个位子，大家都没告诉她猝死的事。某天晚上加班，妹子有段代码不会写，就让男朋友远程帮忙写，自己去吃饭了。然后，产品经理路过她位子的时候，看了一眼她电脑，发现电脑在自动一行一行的写代码，第二天，那个产品经理就辞职了。#IT鬼故事
+- 801222046633988096,Now I'm tracing everything. The Stackdriver Trace Go package makes it too easy. https://t.co/W3BCcGE8jB https://t.co/at8aNdE2AL
+- 798737759414419456,Finally! "Google Cloud Platform Blog: Announcing GPUs for Google Cloud Platform" ( https://t.co/dgnESPzA3Y )
+- 782732201121153024,CodeTengu Weekly - Issue 62 就算有九個女人也沒辦法在一個月內就讓孩子出生https://t.co/NsafLJnx4g
+- 779196925711151104,A Makefile/Dockerfile example for Go projects https://t.co/6xQk5Lm5cr
+- 782983364387098624,Golang Taipei Gathering 17 #golang  https://t.co/9UqZSheXBM
+- 782981018479304704,『「年輕」時的努力，對大部分的人而言，是期待、甚至要看得見「成果」；「資深」時的努力，則是為了讓自己在工作中還能覺得「我真的做得很開心」。』#quote 《為什麼上班這麼累？其實是你心累》
+- 790204435163066370,Re: [請益] 自動化佈署(Chef, Ansible, Salt) - 看板 Soft_Job - 批踢踢實業坊 # 整理的很好，關於 jenkins 的部分。 https://t.co/K5NiibVpgm
+- 783140006827143168,程式設計週記[2016/09/30]: # 最近除了學習 Kubernetes 之外，還有加強自己對於 Machine Learning 的了解．不論是各種方式與如何驗證的手段．其實要學的東西真的不少，但是就是時間越來越少．  https://t.co/2fcGPjRA7G
+- 782253999923798016,Testing over Golang Channels https://t.co/QHmcKTQ2Tx via @hugopicado #golang #devops #testing #quality
+- 799127441570603008,與其抱怨有做不完的「例外工作」，還不如快點把問題和解決方法記下來，避免下次再犯，這樣才會有更多的時間處理「業務工作」和提升穩定度的「IT 內部工作」。#DevOps日常 #鳳凰項目 #ThePhoenixProject
+- 796196050134405120,剛剛把新買的 MacBook 盒子拿給同事「很輕吼」「對啊，真的好輕哦」「恩啊，因為電腦我拿出來了，不在裡面」
+- 791126295144955905,最近在上 Udacity 的課，Udacity 跟其他 MOOC 最大的不同似乎是他每隔五分鐘就會提醒你一次學完這門課對你以後找工作會很有幫助喔，雖然這確實是個不錯的誘因啦，但是難道我不能是因為享受知識本身帶來的喜悅才來上課的嗎？！#聽你在放屁
+- 790541399275909120,aws-lambda-go - Run standard #golang code on #AWS Lambda - https://t.co/UQKUHthcEN https://t.co/5Kbz7sW2Jn
+- 788357967787724800,Go Plus 4.3.0 Released: An Enhanced Go Experience For The Atom Editor - https://t.co/h1igvbExPi
+- 781010767994814464,go tool flags(译) #golang some useful flags for #golang https://t.co/1ya9e99sbX
+- 796738307740860417,唉 我要是網紅的話大概就可以發張照片然後要大家手動幫我測網路 (誤
+- 793839189129166849,@kevingo 當然，也只能慢慢來惹
+- 795212776230699008,/bin/cat https://t.co/D2wARZnSlF
+- 794849332247797760,"An EC2 Spot Architecture for Web Applications | AWS Compute Blog" ( https://t.co/Xtv0nOCRrm )
+- 792085279016386560,Go Tooling in Action: https://t.co/qfMlwaXrp1 #video
+- 792037097246855169,到底 XDDDD https://t.co/2z0kDe4Yfk
+- 782166308637081600,高并发环境下生成订单唯一流水号方法: SnowFlake https://t.co/iAU4VF2twP
+- 801269002253189120,this feature is awesome ! https://t.co/7FP9r4yVF7
+- 797609930580754432,AWS S3 千万级小文件的数据迁移和同步 https://t.co/JKENjdYynb
+- 796246204292087814,三代 AWS https://t.co/cOtFRKHylc # 討論 EC2、Lambda、ECS 的取捨。
+- 794670291297267713,#AWS keeps on rocking - 73 new features &amp; services in October, 782 YTD (up 36.7% YoY). No wonder I am so busy!
+- 792010637526183936,Learn Kubernetes the Hard Way (the Easy and Cheap Way) – Medium #kubrnetes https://t.co/RR0BACNwuI
+- 782791286650642432,"Performance and memory analysis of Golang programs" ➞ A look at heap, cpu and custom profiles, by @ralch : https://t.co/S5ftTTPSXf #golang
+- 779168417492393984,How to Dockerize your Go (#golang) App https://t.co/D3D316RZvx
+- 799075990500614144,Introducing a new type family called Go, designed specifically for Go programming: https://t.co/ZlGg5EiB6o #golang https://t.co/jZN3OnURSI
+- 796745150273908737,發現老闆不在的時候我的 GitHub 一天的 contributions 可以超過 10老闆在的時候就會低於 10把這個命名成「老闆不在定律」好了
+- 797455517224345600,日本有一群「極簡」生活到極致的人 https://t.co/STyOO7oStj
+- 796189276476030976,淋的预言..... 😱 #Election2016 https://t.co/T9va29Diy6
+- 789750592457564160,Curated Go on Twitter - Links to the best GoLang Articles https://t.co/1M37Lg6iDo
+- 787908308879368193,#Caffe installed and running tests! #deeplearning https://t.co/NruxCgjwfS
+- 801229915785830400,Application Performance Percentiles and Request Tracing for AWS Application Load Balancer - https://t.co/wnuBRXG4ku… https://t.co/TPtIoxCa6o
+- 800541753690337281,@kakashiliu 哪個語言不是這樣（看到別人的都想重寫）？ XD  @hungys319 @suitingtseng @vanillashu
+- 793843596537450496,https://t.co/k3Dlwx0q5G 原來 nginx 在 1.9.1 就把 reuse port 做進去了呀
+- 790926560572366848,"大咖专栏 | CloudFront常见错误配置及解决方法" ( https://t.co/xkIlspLC4z )
+- 787535100095238144,這點倒是真的 Q.Q https://t.co/d1CJT8Cu9f
+- 783254242052206592,I'm choosing euthanasia etd 1pm.I have no last words.
+- 798675936694575104,Go race condition trivia – Medium #golang private and race condition https://t.co/mhmrSnkt6g
+- 795141180715659264,https://t.co/NJpEQORXNY Kevingo Tsai - "Build smaller golang docker app" #golang #gophertaiwan
+- 784610434854813697,用推特一陣子以後會發現有一種的推友（以下簡稱為這些人）常常看到這些人被轉出來的推都覺得好讚因此而 follow 這些人但一陣子後卻發現這些人平時發的推其實我不那麼感興趣因此而 unfollow但每次這些人被轉出來的推我依然覺得很讚我把這稱為「非一度空間型推友」
+- 793986060254646273,10 keys to successful machine learning for developers https://t.co/JZUoqLtyqW
+- 792773394865459200,MOPCON 2016 圓滿結束，第五年是個重大挑戰，代表了我們「堅持」在濁水溪以南的重要里程碑！感謝多年支持我們的贊助商，也感謝歷年來參與過 MOPCON 會眾，你們的幫助與鼓勵，是志工們堅持的動力。 https://t.co/KWuMxfYmZ1
+- 782731460482510848,"Structuring Tests in Go" ➞ Wide ranging wisdom on tests, inc. 3 useful test functions, by @benbjohnson : https://t.co/1l8LAcPyUJ #golang
+- 788995765255503872,dotGo 2016 有人分享他參加剛剛在巴黎舉辦完的 dotGo 研討會的心得。 #golang https://t.co/QSMkm8onS3
+- 788272834166464512,老實說，半年前剛離開某 Linux 指令的找工作平台時心裏有點難過，偶爾看到大家在幹他們時還會去幫忙說話，畢竟誰沒有犯過錯 :P可是隨著好朋友都慢慢從裡面離開、看到他們越變越奇怪，又聽到一些自吹自擂的發言後，我覺得很值得寫一篇文來紀錄我看到的這些事情。
+- 794572069669257216,“How to Fake It As an Artist with Docker, AWS and Deep Learning” by @lherrerabenitez https://t.co/frD1n3cnb4
+- 792185430976245760,以前不明白，为什么管理IP地址的DNS服务器，叫做authoritative server（权威服务器）？今天读到后面的文章才明白，最早的设计是，购买域名的人都要自己搭建DNS服务器，你就是这个域名的“权威”，想怎么设置就怎么设置。https://t.co/SDHdBKp312
+- 790039886107553793,An Introduction to the Go Programming Language https://t.co/hCqB6D3HzY https://t.co/HAvddkVJVA
+- 783698331482685440,Gorgonia: A Library To Facilitate Machine Learning in Go - https://t.co/0yiE2E96Ft
+- 782911706867589120,Golang app to analyse news sentiments - "News Snapshot". (sentiment analysis, data extraction) https://t.co/2fR29N7YXn #reddit
+- 782757782571274240,「被別人所看見，是一種嬰幼兒心態的需求。一個成年人的需要，是被自己所看見。」#quote 《為什麼上班這麼累？其實是你心累》
+- 802950114650320897,Implementing binary search in Go #letslearnalgorithms #golang https://t.co/DqBPpP9jPG
+- 796583603815714816,New Zealand immigration site traffic surges after US election https://t.co/2fZ6tcKZcH
+- 780947285509144576,為什麼閱讀對我幫助不大？來看看年收入300萬的人是怎麼看書的｜經理人 https://t.co/gfdiJuikir
+- 786183644327141376,go-build-template: A Makefile/Dockerfile Example for Go Projects - https://t.co/WxUX8oWuyb
+- 797780983709736960,@m157q 照這裡是.......今天會成為爸爸？
+- 796243863312547840,【坚持每天找时间做 Side Projects】每天都做，就算一天只花 15 分钟 也行；每天用的时间不多，期望也不用太高，压力也不会大，养成一种每天的习惯；半年、一年积累下来，side project 就初具规模了。 https://t.co/90RMJ5GqGd
+- 791309060587094017,Haven't updated my Chinese blog for a while. Just posted an update: "深度学习 Meetup 总结" https://t.co/MyeFBGSuiY
+- 782097015182233600,"Go Faster: Optimizing Go Programs" -&gt; Go profiler, Go test benchmarks, runtime behavior etc, by @jmoiron : https://t.co/NEYkUE3Dzj #golang
+- 781886320977281024,Get the latest #golang links in your inbox once a week: https://t.co/rr4CLgSym5
+- 781189964318912512,WEB DEV with #GOLANG - avoid frameworks - use the standard library. All you need, baby: https://t.co/DKq5GCHZT7… https://t.co/kLzzlmRiWM
+- 799092120564813824,最近訂了 SRE, Devops, Microservice Weekly mailing list想找看看還有沒有其他 digest 可以訂結果翻到有人整理了 Awesome Mailing Listshttps://t.co/BQ4yzWGKSz
+- 793419782783639553,On Track With Golang, a New Course from Code School: https://t.co/N2LHQkqiaW
+- 791253850577481728,沒有支援 mobile 的語言是沒有前途的 GG
+- 787663958463377410,错过牛人没事，但千万别招烂人；写下自己认识的最棒的且认为不可能加入你公司的人，这些人往往你最后都能招到"PayPal早年如何招到最好的工程师 | 湾区日报" ( https://t.co/oWIVedySi4 )
+- 783895327396892672,Python 爬蟲新手筆記 - Pala.tw https://t.co/PQDqlxIjN9最近非軟體工程師的同事說想要學寫爬蟲 剛好看到一篇寫的還不錯的 #python$
+- 782998468939902976,Using Subtests and Sub-benchmarks in Go 1.7 #golang https://t.co/f8NbmMRoRR
+- 780264036755582976,wow, 來研究看看 https://t.co/KC1cwaJyiT
+- 780088208503676928,sourcegraph/appdash: Application tracing system for Go, based on Google's Dapper. #golang https://t.co/UTuMQcAo0V https://t.co/1DORSzTaUh
+- 801062306595487744,“Why Go?” by @joaoh82 https://t.co/Mj0RF0qy0C #golang
+- 797037183227961344,逛看到 Asahi 有新包裝只好買來喝一下了然後配個剛剛買的看起來很厲害的燻雞茴香孜然麵包當晚餐固體麵包加液體麵包胖胖 https://t.co/SlWokeAAKN
+- 782896351818416128,Gregor came to visit me today https://t.co/pAtVeUYslc
+- 782672586341650432,Web Scraping with Golang and goQuery (for beginners) https://t.co/4mYfZTpuc1 #reddit
+- 781158970274656256,關於感情，我最喜歡的狀態始終還是那句：「先好好生活，再一起生活。」
+- 780239564501753856,"Handling 1 Million Requests per Minute with Go" -&gt; Fantastic study on using channels, by @mcastilho : https://t.co/aMvPw7ihBa #golang
+- 784725430695784448,重寫別人（或自己）的文章，當做練習。//Rewriting bad writing https://t.co/E4KguPi9xi
+- 784390738008158212,目前對於 Chef 的理解如下，感覺整個架構比 Ansible 還複雜許多。#chef #ansible #devops https://t.co/JQa8iI4CGL
+- 793847418605281280,@kakashiliu reuse port 很好用呀, 起碼在比較早一點的 linux, 最後的瓶頸都卡在 kernel 裡面, 用 reuse port 可以讓好幾支程式同時 bind port, 然後還可以用 cpu affinity 讓他們吃在不同的 cpu 上.
+- 793349881918214144,`xig` 擷取 #instagram 上的資料，instagram web 前端用到的 #GraphQL 沒有限制 query 數量，所以一個連線就可以把所有的資料抓出來。（請小聲慢慢用）#golang https://t.co/hTPjduNk08
+- 791912446764027904,*.io 的 root DNS 掛了，哀鴻遍野。
+- 789763865621979136,A Gentle Guide to Machine Learning https://t.co/u0XpSN0iml
+- 788952884536807424,Bolt DB - A nosql  key/value database for Go. #golang https://t.co/PkSbjdIEOj
+- 781172359139102721,I gave a talk on writing self-contained tests in Go at @digitalocean today! https://t.co/1vMVy4YZz0 https://t.co/TcZzSW2Udc #golang
+- 801115784491565057,New #AWS white paper - Secure Content Delivery with Amazon CloudFront - https://t.co/80kXHICimo https://t.co/4SQcbc0s8c
+- 798073711068778496,小小試了一下 awscli + jq 的組合，搭配起來還挺好用的！https://t.co/u4JKYXnWZr#aws #awscli #jq #cli #json #DevOps日常
+- 778573495659851776,How to Test with Go, An Introductory Guide: https://t.co/5yzP3M8mg9
+- 793665338407657472,Mozilla's next generation web engine is written in Rust.“A Quantum Leap for the Web” by @david_bryant https://t.co/Os9WESv57z
+- 789440124811550721,今天，最大的消息不是npm 4.0发布，而是npm 5.0将在明年一季度发布。届时将提供全新的锁版本方案，以及大大加快安装速度。所以，有竞争还是好事，npm终于感受到yarn的竞争压力了，否则多少年了，都对安装龟速不闻不问。
+- 786593902958477312,"Docker in production: Setup a simple Kubernetes cluster in Digital Ocean using Terraform" #docker #feedly https://t.co/gWGlv4o4oF
+- 784968365345431552,“What open source project should I contribute to?” by @kentcdodds https://t.co/7GGzsgsvXE
+- 778830751382982656,Reading: 我的部分可以搭配這篇文章服用  https://t.co/DtxMojBEOI"Golang 投影片出爐" ( https://t.co/TSx9SEMwZW )
+- 778638312344989696,原來可以用docker rm $(docker ps -a -q)把一堆沒在跑的 container 砍掉啊我之前還寫了個一長串用 awk 去抓 container id 再用 xargs 去串起來囧
+- 801063250783662080,Challenges we faced building a slack bot using golang https://t.co/wbXPErarDx #golang #slackbot #slack #chatbot #chatops
+- 799126741675491328,看到一篇文章说，川普会当选，一个很大的原因是，他说的话容易听懂，完全同意。我觉得技术项目也是如此，如果你的项目容易懂，就有很大的机会赢。
+- 796713994086187008,面試是以這個人有的基礎，來挖掘更多關於他的東西，而不是指出他不會的東西然後痛電他一頓吧？
+- 793841327435751430,Here is the Q&amp;A on #golang pointers &amp; memory addresses https://t.co/O6ID5mnsrW Everything in Go is PASS BY VALUE
+- 793709400255000576,What is the difference between normalization, standardization, and regularization for data? https://t.co/TInvhvguO2
+- 791565339276476416,Machine Learning is Fun! https://t.co/kXWSt2GaXI
+- 791162922248597504,scikit-learn: Choosing the right estimator https://t.co/J3GObmv45a https://t.co/5DFrBEmTf8
+- 786125107353808896,@fatih @twitter @Support Just imagine if you *hadn't* clicked it!
+- 801825152744861696,This free Deep Learning with TensorFlow course provides a solid introduction to the use of Tensorflow https://t.co/vUHodztst7
+- 800935885457870849,Why Go? – Medium #golang https://t.co/RPuQaT3EWs
+- 783250603585654784,Google 台灣搜尋「宅色夫 很硬」，竟然出現 50 萬筆結果，這是一種肯定嗎？ *笑*
+- 778806864729354240,「預估總不準」，在百度私有雲身上，也遇到了這個難題。 https://t.co/CXvgDrP9pY
+- 784257927083282432,使用 #golang string 的五個小秘訣。 https://t.co/8ds8TKLbCk
+- 783557069672701952,My company is on the list !!! "60  Artificial Intelligence Startups Using Deep Learning" ( https://t.co/gH6mO0duUu )
+- 791086957761789953,Machine Learning in a Year https://t.co/flOtHSPToL
+- 788849844081205248,"Testing Your (HTTP) Handlers" ➞ Great guide to getting started and how easy it can be, by @elithrar : https://t.co/O7Wa7eMgTS #golang
+- 784167572702846976,"Create A Simple RESTful API With GoLang" ➞ Good introduction to get started making APIs, by @nraboy : https://t.co/qYEjXJOrW1 #golang
+- 782911709992345600,What software do gophers use to make slide presentations? https://t.co/SCTY94pxlV #reddit
+- 779601853327642624,Go: Channels https://t.co/1owJX04sLP #reddit
+- 779276900061573120,I’m joining the Go team at Google https://t.co/RSBXL1R89o #hackernews
+- 796210511511552001,Two days ago I said I'd like to welcome @realDonaldTrump to visit Taiwan to experience the effects of climate change; looking forward to it.
+- 791236157304471553,yarn 還是有很鳥蛋的設計， --pure-lockfile 這個選項的行為竟然不是預設的？ install 時直接看 lockfile 不是很直覺嗎？不然弄個 lockfile 後還每次 regenerate 是要整誰呀？https://t.co/LLZkJAgRmg
+- 779150698231365632,survey 了一下 aws elb, nginx 對 http2 目前的做法, 幾乎都是不理他, 把他當成 tcp 就對了. (這樣我擋一台 nginx 在中間, 跟直接把 go 寫的 daemon 放在外面, 有什麼差別?)
+- 781827271766093824,so many features needs to be done...
+- 781621270756532224,#EC2 Reserved Instance Update - Convertible RI's and Regional Benefit - https://t.co/gInDz4bq2R #AWS https://t.co/JtT0kEubR8
+- 793293365706039296,#golang top tip: you've probably split your code into too many packages.
+- 791255452109733888,Applying the Linus Torvalds “Good Taste” Coding Requirement https://t.co/xXApOMO9vX
+- 786587501917908992,Very interesting presentation. Always great to remember Go is built on decades old research https://t.co/ajLFjJluC5
+- 781627034007023616,Awesome Go  #golang Find any useful framework on awesome-go https://t.co/78EhUwJ38E
+- 799480995300798464,本日 DevOops：S3 CORS Configuration 一定要是一份 valid XML 才會生效，但是官方文件與 SDK 只會教你、幫你生出一份 non-valid XML。#每日一黑AWS有益身心健康
+- 796966398018732032,@WanCW 《女朋友也聽得懂的演算法》《女朋友也聽得懂的資料結構》《女朋友也聽得懂的密碼學》《女朋友也聽得懂的離散數學》《女朋友也聽得懂的程式語言》《女朋友也聽得懂的計算機組織》《女朋友也聽得懂的組合語言》《女朋友也聽得懂的計算機概論》第一頁都是「請先交個女友」
+- 795810272141185024,找好一同與會「台灣微軟 Leadership Camp from Community Leaders」活動的伙伴了，接下來得舉辦些 Vim 小聚的實體聚會才行 。:P#vimtw #vim #Microsoft
+- 788678142470688768,AWS ARM 可以匯入 TLS/SSL 的 cert/key 了！！！#立馬來匯入https://t.co/iPmbzY9BvY https://t.co/JT3IGUExZm
+- 782471224941215744,Developing a Go app with Docker Compose https://t.co/cCmMHM5z0n #reddit
+- 801634226709741568,Using a UUID to create a session in #golang https://t.co/jPLNIr6RkT #webdev #webdevelopment #html #css #website #WebsiteDesign
+- 796607703451844608,facebook 上的網紅意見領袖真的有自己的暖暖圈欸⋯還是 twitter 上當邊緣人最開心。推特拜託不要倒～拜託～
+- 793307900894584833,brew cleanup =&gt; 17G -&gt; 45G :sweat:
+- 787034744017985536,"iota: Elegant Constants in Go" ➞ Taking you through progressively advanced options, by @splice : https://t.co/ZgZoGyLvNj #golang
+- 784249412360941568,Hyper.sh - Effortless Docker Hostinghttps://t.co/NgsDoaAfvh是這個嗎？好像很酷耶 https://t.co/LSOLzwuS0j
+- 801019866387869696,真有趣Google 的 cron 是用 Paxos 共識決的方式選一台機器出來跑 https://t.co/7PDTeLD0uh
+- 794760247726383105,@WanCW @M157q 正在訓練 bot 自己修 bug XDD
+- 783413147512123393,Introducing HTTP Tracing, new in Go 1.7 #golanghttps://t.co/0SimgD6auP
+- 782023341276213248,Go tooling essentials · go bits #golang # useful fool tooling https://t.co/XogKzsJQwq
+- 797058551625588737,@WanCW @Santou_Hong 我女友為了瞭解我為什麼喜歡 C 去外系修 C ，我老婆為了瞭解我為什麼討厭 Java 去自學 Java (這才叫炫耀)
+- 793672378509176832,有時候，工程師們想做的就只是把研究多時的技術，應用在工作或產品上；然後一點一點地去印證書上或文章上所談及的經驗，滿足自己的成就感，看見自己的方向。他們就會很開心了。#當然很高的薪水通常也會讓他們很開心
+- 785397092067872769,Very good source for learning "Deep Learning" in different domains:https://t.co/9vvXdNzKrL via @YouTube#deeplearning #stanford #bayarea
+- 779589267404234752,Gormen: implementation of some of the algorithms from "Introduction to Algorithms" by Thomas H. Cor… https://t.co/fCDYd1e3Dx #reddit
+- 779518877789134848,後台的我們；後來的我們 1999 v.s 2016 -#瑪莎髮型演變史 #五月天自傳 KKBOX 全專輯串流：https://t.co/9M7YzhKFnAiTunes：https://t.co/mKFc671QDj https://t.co/Ql1DqYemwe
+- 798325285498163200,Here is the best #youtube playlist for learning #golang #webdev https://t.co/5G4ostE0vW and corresponding code base… https://t.co/T4XUuUFbV3
+- 794194572146405376,I'm glad to have you in class. Please let me know if you need help! https://t.co/wEIVI0zAQu
+- 796601281964077056,Methods in Go (part I) 深入探討 Go 的 Method 並且討論 T 與 *T 處理方式，很值得一看．https://t.co/hMxkNCXdHt
+- 792833950985117696,"5 simple tips and tricks for writing unit tests" ➞ Talks Pkgs/files, data-driven &amp; mocking, by @matryer : https://t.co/N3JGmyhH0F #golang
+- 791015798491914240,"Build Your Own Container Using Less than 100 Lines of Go" ➞ Nice history section too, by @doctor_julz : https://t.co/o4bobP4lzD #golang
+- 782536344237056000,5 Tips for Using Strings in Go #golang  # Useful tip about string.  https://t.co/QFmO170hIx
+- 782463656252416000,“Implementing Go Go Go // Speaker Deck” https://t.co/gAZURNbVXe #golang #slide #ddd
+- 778676923073302528,A Walkthrough of Go's encoding/json Package: https://t.co/8cCzub9w6p (Diving deep into Go’s JSON encoding package.)
+- 799059497545252868,GPU-enabled EC2 instance for deep learning https://t.co/mmSmffc4rW
+- 796733301331558400,@kevingo 這我就不清楚了 沒試過 我也還在研究有沒有更好的作法 QQ
+- 792556314459123712,中國人實在太強大了，直接把 GitHub 搬進城內...https://t.co/nCM8auznq2一個收集Github上優秀開源項目與技術分享的IT社區
+- 787011848013025280,Let's Build a CI/CD Pipeline with Go: https://t.co/JgtTWgT9Pa #video
+- 786935942523318272,To be successful:1. Say yes to lots of things.2. Fail a lot, learn a lot.3. Triple down on what goes well.4. Say no to lots of things.
+- 785420222580846592,Slices can change, but strings are immutable.Strings are safe to share between goroutines@peter_szilagyi #dotgo… https://t.co/dTPteKP0Br
+- 782262769462550528,Node.js debugging with Chrome DevTools (in parallel with browser JavaScript) https://t.co/xKRkH4a2FA 來自 @malyw
+- 782113019656417280,Release Gorush v1.6.3 (A push notification server written in Go) support levelDB now #golanghttps://t.co/vVGKQ69KHy
+- 799607349631651840,Understand AWS CloudWatch metrics and Datadog measurement https://t.co/U4til5O0gO
+- 792741149853097984,@starbops @kevingo @M157q 可以用 ProxyCommand 喔
+- 779678792688148480,Take a REST with HTTP/2, Protobufs, and Swagger #golang #grpc  https://t.co/pqNYrom1GP
+- 796225054866542592,你都去哪裡看技術文章？ https://t.co/a66jaVHjDx
+- 789669526744858624,cURL 接下來的安全性更新… https://t.co/16Ooqkwpg7
+- 796238127610417152,git reset --hard 2015
+- 779887156898783232,https://t.co/lptRAebZB3 Hawk: "Go+ Lambda + Dynamodb = Telegram Bot " slide in #Golang Taiwan Gathering… https://t.co/6gwt2t2RVo
+- 801588639029284864,Need some light reading? The #AWS Well-Architected Framework was just updated: https://t.co/EH2Cvgf8Fz - And this w… https://t.co/cAA7SnWX4s
+- 798115764733476864,Do not fear first class functions, my presentation from @dotGoEu 2016. https://t.co/qIWzJyrScd #golang
+- 796737643828695040,@kevingo 哦 對啊 這個我記得就你上次跟我講的 XD?之前被客戶靠北的時候客戶就在信裡提到幾個沒出現在這兩個網站的電信商在有些省份連不到（現在覺得好像真的該回信問問他們到底用什麼測的）尤其寧夏、青海、甘肅、西藏這兩個網站都沒監測點然後四川、重慶那邊特別不穩
+- 789082755401474052,Conv: Type Conversions Without Reflection Across Most Built-In Types - https://t.co/7ItKQCiQJk
+- 787669427550642180,Travis/AppVeyor CI Script for Go #golang https://t.co/WxJExj9N0r
+- 785458863025848320,Docker + Golang = Love: https://t.co/6JPd31KeUv
+- 781522404388601856,"A serverless EC2 scheduler using Lambda and Cloudwatch Events" ( https://t.co/eBQrnlYTAp )
+- 780799556762173440,Creating a Bot using the Telegram Bot API: https://t.co/Nh2xr674oh
+- 800143126262259712,GDG DevFest Taipei 2016 # google developer festival Taipei. I will have a #golang talk here. Join us and have fun! https://t.co/M9QZjvJZsH
+- 798180438753890308,Useful resource for programmers; Latency numbers every programmer should know RE https://t.co/1lqK1thMjW https://t.co/amnCVs7Pch
+- 786397342341603328,"'go test -race' Under the Hood" ➞ So much information here, inc. core concurrency concepts, by @kavya719 : https://t.co/UpINYgyJ84 #golang
+- 783250024759123968,"On GoLang's defer" -&gt; Discussion with some comparison to Java's finally, by @tejasmanohar : https://t.co/PTqFSuUcRM #golang
+- 780515470751375362,"Go and JSON" -&gt; Good all-round introduction to using the `encoding/json` package : https://t.co/egIzyDRj8b, by @EagerIO #golang
+- 780366834373648384,I am afraid those guys who called himself a experienced PM.
+- 792739082031935489,@kevingo @M157q https://t.co/mR65j4CfVH
+- 788324636106764288,知道自己是個不夠好的人，也不願努力改變，卻成天想進入好的環境、得到好的機會、跟好的人在一起，妄想這樣自己就能改變了。這樣的人，現在社會上幾乎到處都是。
+- 786609487947767808,台灣人很喜歡用沒有效率的東西來假裝提高效率例如 line
+- 779959145269071872,#golang Gopher Meetup 线上直播地址- StuQ 官网直播地址：https://t.co/Dh1BjnlPSk（播放PPT）- 熊猫 TV 直播地址：https://t.co/42ukeorSyh（围观大神）
+- 778847156979412992,How to run a #Golang meetup # keep learning https://t.co/QbRfzozfIp
+- 789380241969983488,圖解機器學習 https://t.co/zRsocL1szl https://t.co/8erUadIU4o
+- 786837881780338688,A collection of awesome web crawler in different languages https://t.co/a9rGgjLUyb#crawler #python #java #golang
+- 786559620806537217,Understanding Go Standard Http Libraries : ServeMux, Handler, Handle and HandleFunc https://t.co/C00bRkDvex #golang
+- 780799159335002112,Concurrency in golang #golang https://t.co/XbVlz4sz3q
+- 793362615372087296,沒有 Markdown 真的很痛苦啊 https://t.co/H2eX3PIsXq
+- 788924552793378816,@SammyLinTw 打錯字 是 ACM @@
+- 806071514722226176,@kevingo @hungys319 阿宅牽到 SF 還是阿宅 XDDD
+- 805424881189851136,"使用 pidof 找出此程式的所有 process id" https://t.co/0DsrMZeNJw哦哦 這樣就不用 ps aux | grep 啦#cli$
+- 804192313849171968,"你不知道的 GCP 人工智慧之各種API！" https://t.co/wOLBFYt9VW#gcp$
+- 807969006564954112,What 「accept interfaces, return structs」 means in Go #Golanghttps://t.co/goRoAkJ2mV
+- 807062579306606592,ACCEPT INTERFACES RETURN STRUCTS #Golang https://t.co/QFJ5cvC1jH
+- 806669460975169537,GitHub 上 57 款最流行的開源深度學習項目 #deeplearning https://t.co/9vbBbKrjmF
+- 806534067609042946,Getting Started with BDD in Go Using Ginkgo https://t.co/G4fmWnMdML #reddit
+- 806323427837558784,Go best practices, six years in #Golang https://t.co/yXTCmpSuPE
+- 804169378950324224,Go 1.8 Beta 1 is released!Please test it as we march toward Release Candidate 1:https://t.co/e7OYqN1CdP#golang https://t.co/NjUR3m8oO0
+- 804128645136732170,超 high 的，用這個範例可以把所有的 rss 變成 podcast"awslabs/amazon-polly-sample:( https://t.co/0L2YrCGEB0 )
+- 804175627511152640,GTG18 (Golang Taipei Gathering) 的投影片跟錄影內容．感謝各位講者的幫助....  #golang #gtg https://t.co/Dfv5BKfMWV
+- 803615145310064641,碼天狗作者外出取材中.... #codetengu #ff15 #FFXV https://t.co/ye897Bwm8T
+- 803593357238870017,Go Race Condition Trivia: https://t.co/Ycg1DN7S2y (A look at a race condition scenario. Can you spot the problem yourself?)
+- 804332524801376256,Deep Learning textbook #deeplearning https://t.co/chzfP3HgzC
+- 804131681712029696,AWS re:Invent 2016: Day one recap 沒辦法去只能看 recap 過過癮https://t.co/HvcGfYke43 #AWS
+- 803858748154462209,"521xueweihan/HelloGitHub: HelloGitHub月刊" ( https://t.co/nXAZqKWuRx ) # 居然用朴信惠當頭像, 害我點進來了
+- 803542606437347328,iNDIEVOX Datasets 新增歌詞 Dataset！！！https://t.co/KURHI9GqiU... https://t.co/KVP6mi9CMz
+- 803533332994805760,#MachineLearning for #SoftwareEngineer: Committed on github:         Added "Algorithm Top 10 Articles (v.November… https://t.co/lZ21k5dEl1
+- 804332276850921472,大神Yann LeCun親授：如何自學深度學習技術並進階成專家 #deeplearning https://t.co/7jibssvllO
+- 803718165737811968,"Go 1.8 toolchain improvements" : Window into everything that will be faster in Go 1.8, by @davecheney : https://t.co/MMlxRuCR6L #golang
+- 809047878077267969,Go Code Review Comments #Golang https://t.co/TsbFqJCDRo
+- 809023441021960192,@kakashiliu 報價用的
+- 808307956273950721,突然覺得工程師真的超奴的，沒上班的時候還會自動自發學東西，很多也是在看跟工作相關的東西，hmm...
+- 808193020034097152,Deep Learning Youtube channel by Prof. Hung-yi Lee in Traditional Chinese #deeplearning https://t.co/ezKbp6kOGE
+- 809400448339714048,@kakashiliu @kevingo 我在這兩個坑中很久了 （招手
+- 809408423280291841,@kevingo 沒有 我很久沒用 OS X 了 而且我不是 IDE 派的 不過 vscode 我幾天前試用一下覺得還不錯 或者你可以試試看有個很有名的 Python IDE 叫 PyCharm @kakashiliu
+- 809406135606210560,Python best practices guidebook, written for Humans.https://t.co/KXhDT7UuJd #Python
+- 809409274166136832,@kevingo PyCharm 有 community 版不用錢，但是沒有 Django plugin。 XD @M157q @kakashiliu
+- 809409216611917824,@kevingo https://t.co/5jWm8DYcCk 他有免費的 community 版 @WanCW @kakashiliu
+- 814514546656169984,程式設計週記[2016/12/29]: 年底到了，先來點今年完成了哪些吧 # 本週週記 https://t.co/beyA7cwIDQ
+- 810860363382018048,https://t.co/gemfAGWW5P
+- 814514342221803520,#MachineLearning for #SoftwareEngineer: Committed on github:         Update README-zh-CN.md     https://t.co/lZ21k5dEl1
+- 813272958923702272,gophers/README.md at master · egonelbre/gophers · GitHub # 又想印貼紙了 golang https://t.co/No4QtelcnU
+- 810132226155352064,Learning Go - Typeshttps://t.co/vUzgt4czpe #Golang
+- 810372791979610113,@kevingo 還有寶山鄉吧，科科
+- 809754321164201984,Linux Kernel 4.9 中的 BBR 算法与之前的 TCP 拥塞控制相比有什么优势？ https://t.co/gvygPKhnS5Google：我们研究了一个黑科技，用于解决网络丢包率比较高的情况下的通讯……然后顺便打了天朝 GFW 恶意劣化网络的脸
+- 814493156246843392,@b4283 是的，因爲正統的 regex 不具備擁有當前上下文知識的能力，不然可以自己做一個 stack，或者使用 register，在其中保存上下文知識。兩者在代碼中的表現都是定義幾個變量。這種正統的 regex 的計算複雜度是線性的，然而在這裏構造出來似乎沒有甚麼卵用……
+- 813949538587152384,性能測試 123https://t.co/qOtSyGFxt9
+- 813948904211288064,shell中&gt;/dev/null 2&gt;&amp;1是什麼鬼？ #shell https://t.co/WXUggrZivX
+- 811488147687120896,「反正最後都要當壞人，何必勉強自己當好人」，我應該把這句刺在身上，幹！
+- 810794603515445248,curl vs Wget https://t.co/u3JFmiZM36
+- 810486029375459328,#AWS #IoT browser simulator for drone apps (MQTT + WebSocket) https://t.co/HWL9ckFDIz \CC @jeffbarr @danilop @thedavedev @kylemroche
+- 816190879660548096,世界很大，不要忙著評論事情，創造代表自己價值觀的東西，發揮你相信的道理和精神
+- 813538451609894912,"A TCP Echo Server" : Nice short example in less than 100 lines of code, by @lawlessGuy : https://t.co/2VDZo2P1N3 #golang
+- 813481137154772993,A little bit of Machine Learning: Playing with Google's Prediction API https://t.co/VyWGc6dFip #reddit
+- 813411117443624960,碼天狗終於要聚餐了，這篇 LY 日式燒肉大全太厲害了..   #codetengu #eattengu https://t.co/xiNm8dYdpV
+- 816187653355749376,The 9 most popular Golang links from 2016 – StatusCode – Medium #golang #curated # great curate about golang in 2016 https://t.co/yVN6D35xXq
+- 816180709337354240,Seatttle Go Meeting 採取 隨意挑十個有趣的 repo 大家來填，來講... 覺得這樣方式來講 lightening talk. 可以跑跑看？ #golang https://t.co/ud6d7pVkVD    https://t.co/ud6d7pVkVD
+- 815749383765397504,trying to understand what is gradient descent
+- 812269477454696448,4+ 個主要服務區塊、20~30 個 repo、~4  種語言，跟同事們靠發 pull request、隨機分配 reviewer 來瞭解彼此工作進度與內容，雖然一開始要花費比較多時間，但是效果不錯。而且能待在有辦法處理這樣大跨幅的團隊很棒！
+- 811527679576944640,@kevingo pyfmt or yapf?
+- 816205517299159040,CS 294 Deep Reinforcement Learning, Spring 2017 # berkeley 2017 春季的 Deep Reinforcement Learning 課程 #deeplearning https://t.co/Qcro3NUltE
+- 814398695634370560,@kevingo https://t.co/t30nQmv66Q 搭配服用 #Golang
+- 811814048819884032,遇到要接手那種缺文件少註解沒測試的程式，走為上策，開發者的生命可以用在更美好的地方。你把程式重構，慣老闆不會感謝你，你繼續用 workaround 解，慣老闆覺得你超有效率，但是對你自己的成長有幫助嗎？我虛耗了多年寶貴光陰，跟大家分享這個慘痛的教訓，大家感受一下。
+- 810526174757683200,"保證員工年薪 200 萬的公司，1 年半後怎麼了？ | TechNews 科技新報" ( https://t.co/t8VB0H5MEt )
+- 810520259341873152,@WanCW 我自己的感覺，撇除技術問題外，最上層的人應該要把解決什麼問題，遇到什麼困難這些透明化的讓下面知道，而不是直接決定下面作那些事。因為重頭到尾的了解，通常對開發還有運維上面的幫助更大，也更容易了解瓶頸在那邊。
+- 814292075264897024,近200篇機器學習&amp;深度學習資料分享_幫趣網 https://t.co/L1JJCyBxra
+- 814134389881774080,So you want to expose Go on the Internethttps://t.co/r3JE4vUZne #Golang
+- 813432674727563264,程式設計週記[2016/12/23]: 把握時間，珍惜你愛的 # 本週週記 https://t.co/kQOR2KghCU
+- 810816951203299328,Type alias proposal for Go #golang https://t.co/xDa8kkkSrP
+- 810482512879349760,@kakashiliu https://t.co/NeIWsLpZIC 一個把 TensorFlow 跟 Theano 整合起來的 Python Library @kevingo

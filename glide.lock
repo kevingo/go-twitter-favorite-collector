@@ -1,30 +1,12 @@
-hash: eb95a3d87ec2f87104f23e9d011b8b1cf39354ac0d8562d05c9ec222e3dd65cb
-updated: 2016-11-24T09:34:20.213797147+08:00
+hash: 361fca1ebe804472009c4061fdefeb08044aa15cf4865a4dd3a622d58cd51ab2
+updated: 2017-01-05T09:29:33.201815433+08:00
 imports:
-- name: github.com/BurntSushi/toml
-  version: bbd5bb678321a0d6e58f1099321dfa73391c1b6f
-- name: github.com/cenkalti/backoff
-  version: b02f2bbce11d7ea6b97f282ef1771b0fe2f65ef3
 - name: github.com/dghubble/go-twitter
   version: 536f41ba9ebcee721411517767a6f56b54b4ab65
   subpackages:
   - twitter
 - name: github.com/dghubble/oauth1
   version: 70562a5920ad9b6ff03ef697c0f90ae569abbd2b
-- name: github.com/dghubble/sling
-  version: c961a4334054e64299d16f8a31bd686ee2565ae4
-- name: github.com/fatih/camelcase
-  version: f6a740d52f961c60348ebb109adde9f4635d7540
-- name: github.com/fatih/structs
-  version: dc3312cb1a4513a366c4c9e622ad55c32df12ed3
-- name: github.com/google/go-querystring
-  version: 9235644dd9e52eeae6fa48efd539fdc351a0af53
-  subpackages:
-  - query
 - name: github.com/koding/multiconfig
   version: a2dc2f83a6e7a5c1c5b9a02527a4e9a0b921bea8
-- name: golang.org/x/net
-  version: 76c1a11e06a6d0fcd17b3830b8e1b87a2ade4a9c
-  subpackages:
-  - context
 testImports: []

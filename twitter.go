@@ -2,20 +2,25 @@ package main
 
 import (
 	"fmt"
-	"io/ioutil"
-	"os"
-    "strconv"
-    "regexp"
 	"github.com/dghubble/go-twitter/twitter"
 	"github.com/dghubble/oauth1"
 	"github.com/koding/multiconfig"
+	"io/ioutil"
+	"os"
+	"regexp"
+	"strconv"
 )
 
 type DefaultConfig struct {
-	ConsumerKey string
+	ConsumerKey    string
 	ConsumerSecret string
-	Token string
-	TokenSecret string
+	Token          string
+	TokenSecret    string
+}
+
+type Tweets struct {
+	id    int64
+	tweet string
 }
 
 var conf = loadConfig()
@@ -42,10 +47,11 @@ func main() {
 
 	id := getSinceID()
 
+	// Always fetch favorite 200 tweets from id
 	params := &twitter.FavoriteListParams{
-        SinceID: id,
-        Count: 200,
-    }
+		SinceID: id,
+		Count:   200,
+	}
 
 	tweets, _, _ := client.Favorites.List(params)
 	tweetsMap := map[int64]string{}
@@ -55,8 +61,8 @@ func main() {
 			saveID(tweet.ID)
 		}
 
-        regex, _ := regexp.Compile("\n")
-        tweet.Text = regex.ReplaceAllString(tweet.Text, "")
+		regex, _ := regexp.Compile("\n")
+		tweet.Text = regex.ReplaceAllString(tweet.Text, "")
 		tweetsMap[tweet.ID] = tweet.Text
 	}
 
@@ -68,14 +74,14 @@ func saveTweets(tweetsMap map[int64]string) {
 	defer f.Close()
 	check(err)
 
-    for k, v := range tweetsMap {
-        s := "- " + strconv.FormatInt(k, 10) + "," + v + "\n"
-        f.WriteString(s)
-    }
+	for k, v := range tweetsMap {
+		s := "- " + strconv.FormatInt(k, 10) + "," + v + "\n"
+		f.WriteString(s)
+	}
 }
 
 func saveID(id int64) {
-	println("First tweet, store in since file")
+	println("Found new tweets")
 	f, err := os.Create("./data/since.txt")
 	defer f.Close()
 	check(err)
@@ -98,6 +104,6 @@ func getSinceID() int64 {
 }
 
 func stringToInt64(s string) int64 {
-    i, _ := strconv.ParseInt(s, 10, 64)
-    return i
+	i, _ := strconv.ParseInt(s, 10, 64)
+	return i
 }
